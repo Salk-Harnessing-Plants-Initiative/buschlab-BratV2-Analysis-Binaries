@@ -1,6 +1,6 @@
 # BRAT V2 Analysis Binaries
 These are the binaries for BRAT V2 Analysis, a plugin that is ostensibly equivalent to the BRAT V2 plugin (plugin 1 of the BRAT pipeline) 
-except only does the analysis part and skips the segmentation part (whereas the full BRAT V2 does both the segmentation and analysis). 
+except skips the segmentation part and only does the analysis part (whereas the full BRAT V2 does both the segmentation and analysis). 
 This is is intended to co-opt the BRAT pipeline with the new DeepBRAT project, which uses deep learning to do a better job of the segmentation than BRAT,
 among other things.
 
